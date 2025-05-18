@@ -1,0 +1,21 @@
+Project Overview This Funnel Analysis Capstone Project offers a detailed exploration of Swiggy’s order trends, traffic fluctuations, and conversion stages. The project identifies key factors influencing user behavior and provides actionable insights for optimizing Swiggy’s funnel performance.
+
+Key Highlights
+
+Order Analysis: Detected fluctuations in orders, including significant weekend spikes and weekly variations, categorizing increases above 20% as “highs” and decreases below -20% as “lows.”
+
+Traffic Insights: Analyzed traffic sources to identify opportunities for growth, leveraging data from the "Channel-wise traffic" sheet.
+
+Conversion Rate Analysis: Examined conversion rates across L2M, M2C, C2P, and P2O stages to identify stage-specific fluctuations.
+
+Hypotheses Validation: Formulated and validated hypotheses to understand fluctuation drivers, supported by data-backed evidence.
+
+Funnel Analysis Report: Compiled a comprehensive report detailing order fluctuations, traffic changes, and conversion rate insights.
+
+Technologies & Skills
+
+Tools: Microsoft Excel (Pivot Tables, Graphs, Dashboards)
+
+Skills: Funnel Optimization, Data Analytics, Business Insights, and Data Visualization
+
+This project demonstrates the power of funnel analysis in understanding customer behavior, improving conversion rates, and optimizing user engagement for better business outcomes.
